@@ -1,2 +1,2 @@
-# android-image-loader
-android-image-loader
+#ImageLoader
+并发下载的ImageLoader，支持组合头像 ，并且支持直接写入磁盘缓存
